@@ -50,3 +50,8 @@ $ python evaluate.py corr TGT_DIR/
 ```
 
 With the same configuration as above, you should get 42.57 as test correlation.
+
+## Bilingual Word Representation Learning
+
+Scripts to run the bilingual word representation learning algorithm will be made available soon.
+
